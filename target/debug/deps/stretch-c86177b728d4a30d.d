@@ -1,0 +1,13 @@
+/home/richard/Projects/game/target/debug/deps/libstretch-c86177b728d4a30d.rmeta: /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/lib.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/geometry.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/node.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/number.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/result.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/style.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/algo.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/forest.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/id.rs
+
+/home/richard/Projects/game/target/debug/deps/stretch-c86177b728d4a30d.d: /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/lib.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/geometry.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/node.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/number.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/result.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/style.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/algo.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/forest.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/id.rs
+
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/lib.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/geometry.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/node.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/number.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/result.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/style.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/algo.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/forest.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/stretch-0.3.2/src/id.rs:

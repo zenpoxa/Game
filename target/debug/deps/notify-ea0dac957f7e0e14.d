@@ -1,0 +1,11 @@
+/home/richard/Projects/game/target/debug/deps/libnotify-ea0dac957f7e0e14.rmeta: /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/lib.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/inotify.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/event.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/null.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/poll.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/config.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/error.rs
+
+/home/richard/Projects/game/target/debug/deps/notify-ea0dac957f7e0e14.d: /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/lib.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/inotify.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/event.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/null.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/poll.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/config.rs /home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/error.rs
+
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/lib.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/inotify.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/event.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/null.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/poll.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/config.rs:
+/home/richard/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-5.0.0-pre.11/src/error.rs:
